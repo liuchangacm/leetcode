@@ -1,4 +1,4 @@
-leetcode
+leetcode solution
 ========
 
-Leetcode
+Leetcode Solution
